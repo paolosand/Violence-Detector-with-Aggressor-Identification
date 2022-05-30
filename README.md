@@ -13,7 +13,7 @@ For more information about out project please access the following drive link: h
 ### Prerequisites
 In order to run our code, OpenPose must first be successfully installed along with its python API. To do this, please refer to OpenPose's github repo linked here: 
 - About OpenPose: https://github.com/CMU-Perceptual-Computing-Lab/openpose#installation
-- OpnenPose Installation Guide: https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation/0_index.md#compiling-and-running-openpose-from-source
+- OpenPose Installation Guide: https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation/0_index.md#compiling-and-running-openpose-from-source
 - OpenPose Python API: https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/03_python_api.md
 
 Remember to follow the steps in order to run OpenPose in Python

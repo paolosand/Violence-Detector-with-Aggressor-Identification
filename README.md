@@ -7,7 +7,7 @@ Computer Vision and Machine Learning Group - University of the Philippines Dilim
 Automatically detecting acts of violence and identifying violent individuals in footage captured by CCTVs is an essential next step for these systems to better ensure a more secure and safe society. Our research aims to develop an efficient near real-time video surveillance system to detect violence and identify aggressors in urban areas using Pose Estimation and Support Vector Machines (SVM). Our computer vision framework takes features (velocity, angle, suspicious contact) extracted from the key point output of a pose estimation algorithm, OpenPose, and feeds that data into an SVM for violence detection. While our research mainly focuses on evaluating actions between two people, this study also adds a novel feature that identifies the aggressor in a violent scene given the amount of suspicious contact detected. Different versions of the model were tested and the best performing model achieved great results on all metrics.
 
 ## Link to Papers
-For more information about out project please access the following drive link: https://drive.google.com/drive/folders/10SZvZnyHvbaZscJZ_POKgL8tn8mvPDVO?usp=sharing
+For more information about our project please access the following drive link: https://drive.google.com/drive/folders/10SZvZnyHvbaZscJZ_POKgL8tn8mvPDVO?usp=sharing
 
 ## Set-Up and Installation
 ### Prerequisites

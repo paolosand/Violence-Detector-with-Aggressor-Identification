@@ -29,7 +29,7 @@ Our frame datasets can be found here: https://drive.google.com/drive/folders/1DU
 
 
 ### Running our code
-Once OpenPose has been successfully installed, place the contents of this repo and the frame_datain the following directory inside the openpose repo
+Once OpenPose has been successfully installed, place the contents of this repo and the frame_data in the following directory inside the openpose repo
 ```
 build/examples/tutorial_api_python
 ```

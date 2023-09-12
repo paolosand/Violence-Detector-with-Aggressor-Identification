@@ -23,7 +23,7 @@ The ISR-UoL 3D Social Activity Dataset was used to train our model on violent an
 
 The dataset can be found here: https://lcas.lincoln.ac.uk/wp/research/data-sets-software/isr-uol-3d-social-activity-dataset/#:~:text=This%20is%20a%20social%20interaction,by%20an%20RGB%2DD%20sensor.
 
-This video dataset was translated into a CSV file after extracting the our chosen features from each video frame and storing these features as a row in our CSV frame dataset.
+This video dataset was transformed into a CSV file after extracting our chosen features from each video frame and storing these features as a row in our CSV frame dataset.
 
 Our frame datasets can be found here: https://drive.google.com/drive/folders/1DUTkCno2_vR4YFwHQVHlFA7DJ-1cQpnR?usp=sharing
 
